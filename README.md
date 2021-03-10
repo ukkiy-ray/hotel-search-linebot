@@ -26,7 +26,7 @@ Ruby on Rails で開発し、アプリケーションは [heroku](https://hotel-
   @315itqhn
 ```
 
-[![Image from Gyazo](https://i.gyazo.com/a18e47da6c8a9424c96985dd39cd7f50.jpg)](https://gyazo.com/a18e47da6c8a9424c96985dd39cd7f50)
+<a href="https://gyazo.com/a18e47da6c8a9424c96985dd39cd7f50"><img src="https://i.gyazo.com/a18e47da6c8a9424c96985dd39cd7f50.jpg" alt="Image from Gyazo" width="414px"/></a>
 
 
 2. 検索したいキーワードでメッセージを送信（例：新宿 おしゃれ） すると、検索結果が**最大5件**表示されます。
